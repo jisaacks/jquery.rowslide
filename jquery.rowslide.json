@@ -1,0 +1,30 @@
+{
+    "name": "rowslide",
+    "version": "0.0.1",
+    "title": "rowslide",
+    "author": {
+        "name": "JD Isaacks",
+        "url": "https://github.com/jisaacks"
+    },
+    "licenses": [
+        {
+            "url": "https://github.com/jisaacks/jquery.rowslide/blob/master/LICENSE"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.8.3"
+    },
+    "description": "Use jQuery.slideUp on table rows",
+    "keywords": [
+        "slide",
+        "slideUp",
+        "animation",
+        "transition",
+        "effects",
+        "table",
+        "row",
+        "cell"
+    ],
+    "homepage": "https://github.com/jisaacks/jquery.rowslide",
+    "download": "https://raw.github.com/jisaacks/jquery.rowslide/master/lib/jquery.rowslide.js"
+}
