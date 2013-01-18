@@ -15,3 +15,7 @@ $(function(){
 ```
 
 ### [Demo](http://jsfiddle.net/W48q9/)
+
+---------
+
+I originally created this plugin for use on one of our projects at [emcien](https://github.com/emcien).
